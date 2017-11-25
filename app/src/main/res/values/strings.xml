@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ISTQB QUIZ</string>
+
+    <!-- Quiz activity display-->
+    <string name="question_num" formatted="false">Question: %d/%d</string>
+    <string name="btn_submit">Submit quiz</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_back_to_home">Home</string>
+    <string name="btn_see_detail">See details</string>
+    <string name="btn_change_language">Change to Vietnamese</string>
+
+    <string name="submit_confirm_title">Confirm Submission</string>
+    <string name="submit_on_firm_message">Are you sure?</string>
+
+    <string name="new_high_score">New High Score!</string>
+    <string name="answer_correct">Congratulations! Your answer is correct.</string>
+
+    <!-- format strings for displaying scores and such -->
+    <string name="results_title" formatted="false">Score: %.1f%%</string>
+    <string name="high_score" formatted="false">High score: %.1f%%</string>
+    <string name="your_answer" formatted="false">Your answer:    %s</string>
+    <string name="your_score" formatted="false">Your score: %d/%d</string>
+    <string name="correct_answer" formatted="false">Correct answer: %s</string>
+    <string name="question_key" formatted="false">ques_no_%d</string>
+    <string name="correct_ans_key" formatted="false">correct_ans_%d</string>
+    <string name="quiz_item" formatted="false">%s questions quiz</string>
+
+    <!-- KEY-->
+    <string name="quiz_num">QUIZ_NUM</string>
+    <string name="question_list">QUESTION_LIST</string>
+    <string name="user_answer_list">USER_ANSWER_LIST</string>
+    <string name="high_score_key">HIGH_SCORE</string>
+    <string name="default_language">DEFAULT_LANGUAGE</string>
+
+    <!--TOAST MESSAGE-->
+    <string name="required_answer_next">Give the answer before going to the next question.</string>
+    <string name="required_answer_submit">Give the answer before submitting.</string>
+</resources>

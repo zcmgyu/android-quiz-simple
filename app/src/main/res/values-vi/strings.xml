@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ISTQB QUIZ</string>
+
+    <!-- Quiz activity display-->
+    <string name="question_num" formatted="false">Câu hỏi: %d/%d</string>
+    <string name="btn_submit">Gửi</string>
+    <string name="btn_done">Hoàn thành</string>
+    <string name="btn_previous">Trước</string>
+    <string name="btn_next">Kế tiếp</string>
+    <string name="btn_back_to_home">Trang chủ</string>
+    <string name="btn_see_detail">Xem chi tiết</string>
+    <string name="btn_change_language">Đổi ngôn ngữ Tiếng Việt</string>
+
+    <string name="submit_confirm_title">Xác nhận</string>
+    <string name="submit_on_firm_message">Bạn có chắc chắn muốn gửi câu trả ?</string>
+
+    <string name="new_high_score">Điểm số cao mới!</string>
+    <string name="answer_correct">Chúc mừng! Câu trả lời của bạn chính xác.</string>
+
+    <!-- format strings for displaying scores and such -->
+    <!--<string name="results_title" formatted="false">Điểm số: %.1f%%</string>-->
+    <!--<string name="high_score" formatted="false">High score: %.1f%%</string>-->
+    <string name="your_answer" formatted="false">Câu trả lời của bạn: %s</string>
+    <string name="your_score" formatted="false">Điểm số: %d/%d</string>
+    <string name="correct_answer" formatted="false">Đáp án: %s</string>
+    <string name="question_key" formatted="false">ques_no_%d</string>
+    <string name="correct_ans_key" formatted="false">correct_ans_%d</string>
+    <string name="quiz_item" formatted="false">%s câu </string>
+
+    <!-- KEY-->
+    <string name="quiz_num">QUIZ_NUM</string>
+    <string name="question_list">QUESTION_LIST</string>
+    <string name="user_answer_list">USER_ANSWER_LIST</string>
+    <string name="high_score_key">HIGH_SCORE</string>
+    <string name="default_language">DEFAULT_LANGUAGE</string>
+
+    <!--TOAST MESSAGE-->
+    <string name="required_answer_next">Hãy chọn câu trả lời trước khi chuyển sang câu hỏi kế tiếp.</string>
+    <string name="required_answer_submit">Hãy chọn câu trả lời trước khi gửi câu trả lời.</string>
+</resources>

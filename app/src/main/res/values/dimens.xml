@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_question">16sp</dimen>
+    <dimen name="text_size_high_score">30sp</dimen>
+    <dimen name="question_num">18sp</dimen>
+    <dimen name="score_result">30sp</dimen>
+    <dimen name="previous_score_result">16sp</dimen>
+    <dimen name="sub_question_num">14sp</dimen>
+    <dimen name="padding_question">10sp</dimen>
+    <dimen name="padding_question_sub">0sp</dimen>
+    <dimen name="margin_button">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>

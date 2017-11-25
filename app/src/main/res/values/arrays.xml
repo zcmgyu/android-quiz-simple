@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quiz_items">
+        <item>10 questions quiz</item>
+        <item>20 questions quiz</item>
+        <item>30 questions quiz</item>
+        <item>40 questions quiz</item>
+    </string-array>
+</resources>
